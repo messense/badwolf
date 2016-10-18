@@ -3,5 +3,5 @@ pytest
 pytest-cov
 pytest-capturelog
 coverage
-mock
+mock==2.0.0
 Sphinx
