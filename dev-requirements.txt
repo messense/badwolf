@@ -4,4 +4,4 @@ pytest-cov
 pytest-capturelog
 coverage==4.2
 mock==2.0.0
-Sphinx
+Sphinx==1.4.8
