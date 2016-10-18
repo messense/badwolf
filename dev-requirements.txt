@@ -1,7 +1,7 @@
 -r requirements.txt
 pytest==3.0.3
 pytest-cov==2.4.0
-pytest-capturelog
+pytest-capturelog==0.7
 coverage==4.2
 mock==2.0.0
 Sphinx==1.4.8
